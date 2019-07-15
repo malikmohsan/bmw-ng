@@ -5,9 +5,4 @@ import { Component } from "@angular/core";
   templateUrl: "./app.component.html",
   styleUrls: ["./app.component.css"]
 })
-export class AppComponent {
-  title = "I am app component form app component";
-  buttonHandler() {
-    alert("Button is clicked");
-  }
-}
+export class AppComponent {}
